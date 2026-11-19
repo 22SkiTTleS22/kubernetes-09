@@ -1,8 +1,7 @@
 Подготовка ОС, скрипт preparation.sh
-
-
+os
 Установка containerd, скрипт install-containerd.sh
-
+containerd
 Установка kubernetes, скрипт install-kubernetes.sh
 kuber
 Создание кластера на k8s-master
