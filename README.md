@@ -22,5 +22,5 @@ sudo kubeadm init \
 <img width="1919" height="279" alt="k8s-09-kuber2" src="https://github.com/user-attachments/assets/d86b7db1-f93e-414f-ae85-7f41844fa999" />
 
 <img width="1980" height="280" alt="k8s-09-itog" src="https://github.com/user-attachments/assets/7cec4893-8eef-425c-ba25-1110c023db1d" />
-Сеть кластера настраивается с установкой Calico в задании 3.3
+Сеть c Calico для задания 3.3
 <img width="2135" height="604" alt="k8s-09-calico" src="https://github.com/user-attachments/assets/96525798-39ac-477a-bc7b-ead1770633c1" />
